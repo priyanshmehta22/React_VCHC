@@ -1,0 +1,14 @@
+{
+  "patients": [
+    {
+      "id": "1",
+      "name": "Priyansh",
+      "age": "19",
+      "location": "Jaipur",
+      "email": "priyansh9571mehta@gmail.com",
+      "phone": "9057572696",
+      "appointment-date": "14-6-2022",
+      "appointment-time": "10:00 AM"
+    }
+  ]
+}
